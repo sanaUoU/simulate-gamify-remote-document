@@ -1,2 +1,6 @@
 # simulate-gamify-remote-document
-a platform made by all users to edit real world rules together to simulate, and as reality to play and connect the world, and capable of controling real world online, and document what we do in real world as logs.
+a collaborative platform where users 
+- collectively shape rules for simulating the real world, 
+- play and connect with it as a shared reality, 
+- control physical devices remotely, 
+- document real-world activities as a living diary.
